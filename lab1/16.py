@@ -1,0 +1,13 @@
+import turtle
+side = int(input("input the side length of star:"))
+turtle.right(72)
+turtle.forward(side)
+turtle.right(144)
+turtle.forward(side)
+turtle.right(144)
+turtle.forward(side)
+turtle.right(144)
+turtle.forward(side)
+turtle.right(144)
+turtle.forward(side)
+turtle.exitonclick()
